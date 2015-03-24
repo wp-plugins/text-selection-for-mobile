@@ -8,11 +8,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The errnio **Text Selection for Mobile** plugin enhanced mobile text selection with added features for your mobile site.
+The errnio Text Selection for Mobile plugin enhances mobile text selection with added features for your mobile site.
 
 == Description ==
 
-The errnio **Text Selection for Mobile** plugin enhanced mobile text selection with added features for your mobile site, and lets users search for the text they select on their mobile devices, while browsing your site, improving your site usability and experience. The features dynamically adjust according to the operating system and browser in use by the site visitor, offering a natural and native design on iOS or Android.  
+The errnio **Text Selection for Mobile** plugin enhanced mobile text selection with added features for your mobile site, and lets users search for the text they select on their mobile devices, while browsing your site, improving your site usability and experience. The features dynamically adjust according to the operating system and browser in use by the site visitor, offering a natural and native design on iOS or Android.
 
 It also adds a new revenue and engagement layer to your site with a simple addition of a plugin. The plugin enables a gesture based search tool to be added to any mobile browsing session. The box enhances regular browser elements, offering the user a lighter and more agile search box in place of the browser box.  
 Without adding **ads** or **banners**, errnio can enhance your revenue. Make **more** money from your site with **no more** banners or ads. No more pushy advertising, be part of the revolution.  
