@@ -1,4 +1,4 @@
-=== Tappy Related by errnio ===
+=== Wordpress Tap to Search by errnio ===
 
 Contributors: errnio
 Tags: Tap, Tappy, text selection, right click, curio, gesture, analytics, bounce rate, click to tweet, content, content analytics, content recommendation, engagement, errnio, exit-intent, increase traffic, mobile, mobile web, plugin, scroll box, time spent, widget, wordpress, wikipedia, definition, dictionary, Related content, recommended content, recommendation, suggested content, Ads for website, Ads for websites, Ads on website, In Text Advertising, make money, monetize, Monetize Website, PPC ads, text ads
@@ -10,11 +10,11 @@ Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Tappy Related offers your mobile site visitors related search phrases and content at the tap of a text, helping your users with their next action.
+Wordpress Tap to Search offers your mobile site visitors related search phrases and content at the tap of a text, helping your users with their next action.
 
 == Description ==
 
-**Tappy Related** by **errnio** adds a new engagement layer to your mobile site. With every tap and text selection of a word or piece of text, the user is immediately presented with related search and content recommendation at the bottom of the screen, directly related to their selection. Tappy also adds several buttons to share or search.
+**Wordpress Tap to Search** by **errnio** adds a new engagement layer to your mobile site. With every tap and text selection of a word or piece of text, the user is immediately presented with related search and content recommendation at the bottom of the screen, directly related to their selection. Tappy also adds several buttons to share or search.
 
 
 This tool enhances user experience, engaging your visitors with your content on mobile. errnio can increase your pages per visit, time spent on site, and improve your over site engagement on mobile. No additional integration is required, and with a simple plugin we have all we need to make your users more engagement on your site, with a great mobile user experience of your content.
