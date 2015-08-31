@@ -10,7 +10,7 @@ Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Wordpress Tap to Search offers your mobile site visitors related search phrases and content at the tap of a text, helping your users with their next action.
+Wordpress Tap to Search offers your mobile site visitors related search phrases and content at the tap of a text.
 
 == Description ==
 

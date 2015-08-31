@@ -2,7 +2,7 @@
 /*
 Plugin Name: Tappy Related by errnio
 Plugin URI: http://errnio.com
-Description: Tappy Related offers your mobile site visitors related search phrases and content at the tap of a text, helping your users with their next action.
+Description: Wordpress Tap to Search offers your mobile site visitors related search phrases and content at the tap of a text.
 Version: 2.0
 Author: Errnio
 Author URI: http://errnio.com
