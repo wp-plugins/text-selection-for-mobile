@@ -186,7 +186,7 @@ function tappy_searchmore_by_errnio_admin_notice() {
 	$settingsurl = admin_url( 'admin.php?page=errnio-options' );
 
 	if($needregister){
-		echo('<div style="font-weight: bold; background-color: #7ad03a; padding: 1px 12px; box-shadow: 0 1px 1px 0 rgba(0,0,0,.1); margin: 5px 0 15px;"><p style="font-size: 14px;">Please register your site in the errnio settings section <a href="'.$settingsurl.'">here</a></p></div>');
+		echo("<div style='font-weight: bold; background-color: #7ad03a; padding: 1px 12px; box-shadow: 0 1px 1px 0 rgba(0,0,0,.1); margin: 5px 0 15px;'><p style='font-size: 14px;'>Congratulations! Your new plugin is up and running. For more options and features you're welcome to register <a href='".$settingsurl."'>here</a></p></div>");
 	}
 }
 
