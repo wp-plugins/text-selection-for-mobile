@@ -2,11 +2,9 @@
 
 Contributors: errnio
 Tags: Tap, Tappy, text selection, right click, curio, gesture, analytics, bounce rate, click to tweet, content, content analytics, content recommendation, engagement, errnio, exit-intent, increase traffic, mobile, mobile web, plugin, scroll box, time spent, widget, wordpress, wikipedia, definition, dictionary, Related content, recommended content, recommendation, suggested content, Ads for website, Ads for websites, Ads on website, In Text Advertising, make money, monetize, Monetize Website, PPC ads, text ads
-
-
 Requires at least: 3.0
 Tested up to: 4.3
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -135,9 +133,13 @@ info@errnio.com
 
 == Changelog ==
 
+= 2.1 =
+* New design for errnio settings page and admin notice
+
 = 2.0 =
 * First version release
 
 == Upgrade Notice ==
 
-**2.0 version release
+**2.0 Version release
+**2.1 New and improved design for errnio settings page and admin notice
