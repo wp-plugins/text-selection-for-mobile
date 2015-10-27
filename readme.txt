@@ -141,5 +141,5 @@ info@errnio.com
 
 == Upgrade Notice ==
 
-**2.0 Version release
 **2.1 New and improved design for errnio settings page and admin notice
+**2.0 Version release
