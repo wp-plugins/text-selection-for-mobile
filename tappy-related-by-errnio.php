@@ -3,7 +3,7 @@
 Plugin Name: Tappy Related by errnio
 Plugin URI: http://errnio.com
 Description: Wordpress Tap to Search offers your mobile site visitors related search phrases and content at the tap of a text.
-Version: 2.1
+Version: 2.1.1
 Author: Errnio
 Author URI: http://errnio.com
 */
@@ -156,9 +156,9 @@ add_action('wp_enqueue_scripts', 'tappy_searchmore_by_errnio_load_client_script'
 function tappy_searchmore_by_errnio_add_settings_menu_option() {
     add_menu_page (
         'Errnio Options',   //page title
-        'Errnio Settings',  //menu title
+        'Tap to Search Settings',  //menu title
         'manage_options',   //capability
-        'errnio-options',   //menu_slug
+        'errnio-options-taptosearch',   //menu_slug
         'tappy_searchmore_by_errnio_admin_page',  //function
         plugin_dir_url( __FILE__ ) . '/assets/img/errnio-icon.png'  //icon_url
         //There is another parameter - position
@@ -173,7 +173,7 @@ function tappy_searchmore_by_errnio_add_settings_link_on_plugin($links, $file) {
     }
 
     if ($file == $this_plugin) {
-		$adminpage_url = admin_url( 'admin.php?page=errnio-options' );
+		$adminpage_url = admin_url( 'admin.php?page=errnio-options-taptosearch' );
         $settings_link = '<a href="'.$adminpage_url.'">Settings</a>';
         array_unshift($links, $settings_link);
     }
@@ -184,7 +184,7 @@ function tappy_searchmore_by_errnio_add_settings_link_on_plugin($links, $file) {
 function tappy_searchmore_by_errnio_admin_notice() {
 	global $hook_suffix;
 	$needregister = tappy_searchmore_by_errnio_check_need_register();
-	$settingsurl = admin_url( 'admin.php?page=errnio-options' );
+	$settingsurl = admin_url( 'admin.php?page=errnio-options-taptosearch' );
 
 	if($hook_suffix == 'plugins.php' && $needregister){
 		echo("<div class='updated' style='border-radius: 3px;padding: 10px 12px;border-color: #4DB6AC;background-color: #81D8D0;box-shadow: 0 1px 1px 0 rgba(0,0,0,.2);-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.2);'><h3 style='color:#555;'>Congratulations! Your Tap to Search plugin is up and running. For more options and features you're welcome to register <a href='".$settingsurl."' style='color: #ECFFFD;text-decoration:underline;'>here</a></h3></div>");
